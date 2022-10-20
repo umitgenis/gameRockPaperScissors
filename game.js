@@ -5,6 +5,8 @@
         - OluŞan sayıya göre resimleri değiştir.
         - Resimleri bg atayabilmek için bir array oluşturalım.
           bgImg = ["url(/makas.svg)","url(/kagit.svg)","url(/tas.svg)"];
+
+        ! extras yapılcakcakar
           
        */
 
@@ -30,8 +32,8 @@
 
           function givePlayerImg() {
   
-              randomImg();
-              randomImg2();              
+            //   randomImg();
+            //   randomImg2();              
               
               player1ImgState = player1Img.backgroundImage = bgImg[randomImg()];
               player2ImgState = player2Img.backgroundImage = bgImg[randomImg2()];
