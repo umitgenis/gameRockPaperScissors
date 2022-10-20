@@ -5,7 +5,7 @@
 
 Click demo to try it by yourself!
 
-## Calculator Demo Link
+## Rock-Paper-Scissors Game Demo Link
 
 You can view the site here [Click Me](https://rps-game-game.surge.sh)
 
