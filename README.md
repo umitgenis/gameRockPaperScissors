@@ -19,6 +19,5 @@ You can view the site here [Click Me](https://rps-game-game.surge.sh)
 
 ***
 ### Author
-***
 
 * [Ümit GENİŞ](https://github.com/umitgenis/) | [e-mail adress for click](mailto:umitgenis@gmail.com) 
